@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi!! I'm a student at UC Irvine pursuing a B.S. in Computer Engineering and minoring in Management. Feel free to reach out to me!
+Hi!! I'm a student at UC Irvine pursuing a B.S. in Computer Engineering and minoring in Management. Feel free to reach out!
 
 
 # 💻 Tech Stack:
